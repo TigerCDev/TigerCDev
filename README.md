@@ -38,4 +38,3 @@ CS50x · CS50P · Boot.dev (Python, OOP, Functional Programming, DSA, Linux, Git
 ---
 
 <sub>Before this, I spent four years in film production — running multi-stakeholder projects on hard deadlines. Backend engineering uses the same muscles, with better tools.</sub>
-```
