@@ -1,8 +1,9 @@
+```markdown
 ### Hi, I'm Tiger 👋
 
 I build backend systems in Python — Django, DRF, PostgreSQL, Docker.
 Currently shipping a production-grade API with async background tasks,
-external API integration, and Postgres full-text search. Live by mid-May.
+external API integration, and Postgres full-text search.
 
 📍 Bangkok, Thailand → Sydney, Australia next year
 🎯 Junior Python Backend Developer roles, remote APAC / AU / EU
@@ -24,7 +25,7 @@ stack = {
 
 #### 🔨 Currently building
 
-**[CineRef API](https://github.com/TigerCDev/cineref-api)** — a Django + DRF + PostgreSQL platform for cinematography reference data. Async TMDB sync via Celery, Postgres full-text search, JWT auth, drf-spectacular API docs, 70%+ test coverage. *Shipping mid-May 2026.*
+**[CineRef API](https://github.com/TigerCDev/cineref-api)** — a Django + DRF + PostgreSQL platform for cinematography reference data. Async TMDB sync via Celery, Postgres full-text search, JWT auth, drf-spectacular API docs, 92% test coverage. [Live →](https://cineref-api.fly.dev/api/schema/swagger-ui/)
 
 #### 📚 Foundation
 
@@ -37,3 +38,4 @@ CS50x · CS50P · Boot.dev (Python, OOP, Functional Programming, DSA, Linux, Git
 ---
 
 <sub>Before this, I spent four years in film production — running multi-stakeholder projects on hard deadlines. Backend engineering uses the same muscles, with better tools.</sub>
+```
