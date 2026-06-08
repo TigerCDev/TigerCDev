@@ -3,7 +3,7 @@
 I build and ship backend systems in Python — Django, DRF, PostgreSQL, Docker.
 One production API live in the wild; a second (a RAG system) in active build.
 
-📍 Bangkok, Thailand → Australia (Working Holiday Visa approved)
+📍 Bangkok, Thailand
 🎯 Open to Junior Python Backend Developer roles — remote APAC / AU / EU
 
 ---
