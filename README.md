@@ -23,7 +23,7 @@ stack = {
 
 #### 🚀 Shipped
 
-**[CineRef API](https://github.com/TigerCDev/cineref-api)** — a production Django + DRF + PostgreSQL API for cinematography reference data. Async TMDB sync (Celery + Redis), Postgres full-text search, JWT auth, drf-spectacular docs, 92% pytest coverage, Dockerized, deployed to Fly.io.
+**[CineRef API](https://github.com/TigerCDev/cineref-api)** — a production Django + DRF + PostgreSQL API for cinematography reference data. Async TMDB sync (Celery + Redis), Postgres full-text search, JWT auth, drf-spectacular docs, 92% pytest coverage, Dockerized, deployed to Fly.io. <br>
 [Live API + Swagger docs →](https://cineref-api.fly.dev/api/schema/swagger-ui/)
 
 #### 🚧 Building now
