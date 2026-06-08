@@ -1,31 +1,34 @@
-```markdown
 ### Hi, I'm Tiger 👋
 
-I build backend systems in Python — Django, DRF, PostgreSQL, Docker.
-Currently shipping a production-grade API with async background tasks,
-external API integration, and Postgres full-text search.
+I build and ship backend systems in Python — Django, DRF, PostgreSQL, Docker.
+One production API live in the wild; a second (a RAG system) in active build.
 
-📍 Bangkok, Thailand → Sydney, Australia next year
-🎯 Junior Python Backend Developer roles, remote APAC / AU / EU
+📍 Bangkok, Thailand → Australia (Working Holiday Visa approved)
+🎯 Open to Junior Python Backend Developer roles — remote APAC / AU / EU
 
 ---
 
-#### 🛠 What I work with
+#### 🛠 Stack
 
 ```python
 stack = {
     "language": "Python 3.12",
-    "backend": ["Django", "Django REST Framework"],
-    "data":    ["PostgreSQL", "Redis"],
-    "infra":   ["Docker", "Docker Compose", "Fly.io"],
-    "testing": ["pytest", "pytest-django"],
-    "now_learning": ["LangChain", "LangGraph", "RAG"],
+    "backend":  ["Django", "Django REST Framework"],
+    "data":     ["PostgreSQL", "pgvector", "Redis"],
+    "infra":    ["Docker", "Docker Compose", "Celery", "Fly.io"],
+    "testing":  ["pytest", "pytest-django"],
+    "ai":       ["LangChain", "RAG", "embeddings"],
 }
 ```
 
-#### 🔨 Currently building
+#### 🚀 Shipped
 
-**[CineRef API](https://github.com/TigerCDev/cineref-api)** — a Django + DRF + PostgreSQL platform for cinematography reference data. Async TMDB sync via Celery, Postgres full-text search, JWT auth, drf-spectacular API docs, 92% test coverage. [Live →](https://cineref-api.fly.dev/api/schema/swagger-ui/)
+**[CineRef API](https://github.com/TigerCDev/cineref-api)** — a production Django + DRF + PostgreSQL API for cinematography reference data. Async TMDB sync (Celery + Redis), Postgres full-text search, JWT auth, drf-spectacular docs, 92% pytest coverage, Dockerized, deployed to Fly.io.
+[Live API + Swagger docs →](https://cineref-api.fly.dev/api/schema/swagger-ui/)
+
+#### 🚧 Building now
+
+**[gamelore-rag](https://github.com/TigerCDev/gamelore-rag)** — a retrieval-augmented (RAG) knowledge system over a curated corpus of story-driven games. Hybrid retrieval by query type: structured facts through the Django ORM, semantic search through pgvector. A Celery ingestion pipeline, citation-grounded answers, and an eval harness for retrieval quality. *Django · DRF · pgvector · LangChain · Celery · Redis — in active development.*
 
 #### 📚 Foundation
 
