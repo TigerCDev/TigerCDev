@@ -1,6 +1,6 @@
 ### Hi, I'm Tiger 👋
 
-I build and ship backend systems in Python — Django, DRF, PostgreSQL, Docker.
+I build and ship backend systems in Python — Django, DRF, PostgreSQL, Docker. <br>
 One production API live in the wild. <br>
 A second (a RAG system) in active build.
 
