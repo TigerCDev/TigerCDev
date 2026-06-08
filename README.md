@@ -1,7 +1,8 @@
 ### Hi, I'm Tiger 👋
 
 I build and ship backend systems in Python — Django, DRF, PostgreSQL, Docker.
-One production API live in the wild; a second (a RAG system) in active build.
+One production API live in the wild. <br>
+A second (a RAG system) in active build.
 
 📍 Bangkok, Thailand <br>
 🎯 Open to Junior Python Backend Developer roles — remote APAC / AU / EU
